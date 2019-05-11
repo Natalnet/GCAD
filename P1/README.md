@@ -1,6 +1,5 @@
 # Primeira peça
 ## Recursos:
-**Ressalto (Plano Medio)** <br>
-**Ressalto de Base** <br>
+**Ressalto de Base(Plano Medio)** <br>
 **Corte de Base**
 
