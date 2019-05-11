@@ -9,7 +9,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 
 ## Líderes 
 * [João Matheus Bernardo Resende](https://github.com/jmathbr)           (C&T/Eng Mecatronica)
-* [Fagner Dantas](https://github.com/fagner147)                           (C&T/Eng Mecanica)
+* [Fágner Dantas Silva](https://github.com/fagner147)                           (C&T/Eng Mecanica)
 
 ## Membros 
 * Henry Coutinho Lamas                    (C&T/Eng Biomedica)
@@ -21,10 +21,15 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Matheus Antonio Pereira Da Silva        (C&T/Eng Mecanica)
 
 * Luis Felipe Vanin Martins               (C&T/Eng Computaçao)
-
-## Módulos 
-
-[Desenvolvimento de peças](https://github.com/Natalnet/GCAD/tree/master/P1)
+## Candidatos
+* Como faço para ser um candidato?<br>
+Para participar do grupo voce deve inicialmente procurar um Padrinho (Membro), esse Padrinho é quem vai te guiar para atividades relacionadas ao grupo e te instruir dentro do GCAD.
+## Módulos
+| Peças | Dificuldade | Visualizaçao |
+| ------ | ------ | ------ |
+| [P1 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/P1) | Easy | Easy |
+| [P2 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/P2) | Easy | Medium |
+<br>
 
 
 
