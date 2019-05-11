@@ -5,6 +5,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 
 ## Professores Orientadores
 * Orivaldo Santana
+* Fábio Souza
 
 ## Líderes 
 
