@@ -1,16 +1,16 @@
 # P1
 ![](https://github.com/Natalnet/GCAD/blob/master/P1/P1.jpg)
 ## Esboço:
-**Circulo**<br>
-**Espelhar entidades** <br>
-**Ranhura Reta**<br>
-**Retangulo central**<br>
-**Retangulo de canto**<br>
+* Circulo<br>
+* Espelhar entidades <br>
+* Ranhura Reta<br>
+* Retangulo central <br>
+* Retangulo de canto<br>
 
 
 ## Recursos:
-**Corte de Base**<br>
-**Ressalto de Base (Plano Médio)** <br>
+* Corte de Base<br>
+* Ressalto de Base (Plano Médio) <br>
 
 ## Video:
 https://showmore.com/pt/u/dwp93fs  **(senha:1480)**<br>
