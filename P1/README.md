@@ -1,2 +1,6 @@
-# GCAD
-Grupo de CAD ( Computer Aided Design)
+# Primeira peça
+## Recursos:
+### Ressalto (Plano Medio)
+### Ressalto de Base
+### Corte de Base
+
