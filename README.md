@@ -16,12 +16,13 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Isabelly Christine Alvez Dionizio       (C&T/Eng Biomedica)
 * Maria Luiza Pires de Souza              (C&T/Eng Biomedica)
 
-* Adson Emanuel Santos Amaral             (C&T/Eng Mecatronica)
+
 * Igor Micael Araujo de Macedo            (C&T/Eng Mecatronica)
 * Gabriel Barros Lins Lelis de OLiveira   (C&T/Eng Mecatronica)
 
 * Matheus Antonio Pereira Da Silva        (C&T/Eng Mecanica)
 
+* Adson Emanuel Santos Amaral             (C&T/Eng Computaçao)
 * Luis Felipe Vanin Martins               (C&T/Eng Computaçao)
 ## Candidatos :runner:
 * Como faço para ser um candidato?<br>
