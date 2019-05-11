@@ -1,5 +1,5 @@
 # P2
-![](https://github.com/Natalnet/GCAD/blob/master/P1/P1.jpg)
+![](https://github.com/Natalnet/GCAD/blob/master/P2/P2.JPG)
 ## Esboço:
 **Circulo**<br>
 **Espelhar entidades** <br>
