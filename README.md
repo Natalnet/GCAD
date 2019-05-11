@@ -8,12 +8,19 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Fábio Souza
 
 ## Líderes 
-
-* João Matheus 
+* João Matheus Bernardo Resende           (C&T/Eng Mecatronica)
+* Fagner Dantas                           (C&T/Eng Mecanica)
 
 ## Membros 
+* Henry Coutinho Lamas                    (C&T/Eng Biomedica)
+* Isabelly Christine Alvez Dionizio       (C&T/Eng Biomedica)
+* Maria Luiza Pires de Souza              (C&T/Eng Biomedica)
 
-* ... 
+* Igor Micael Araujo de Macedo            (C&T/Eng Mecatronica)
+* Gabriel Barros Lins Lelis de OLiveira   (C&T/Eng Mecatronica)
+* Matheus Antonio Pereira Da Silva        (C&T/Eng Mecanica)
+
+* Luis Felipe Vanin Martins               (C&T/Eng Computaçao)
 
 ## Módulos 
 
