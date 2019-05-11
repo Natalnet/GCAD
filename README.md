@@ -8,8 +8,10 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Fábio Souza
 
 ## Líderes :relieved:
-* [João Matheus Bernardo Resende](https://github.com/jmathbr)           (C&T/Eng Mecatronica)
-* [Fágner Dantas Silva](https://github.com/fagner147)                           (C&T/Eng Mecanica)
+**(C&T/Eng Mecatronica):**
+* [João Matheus Bernardo Resende](https://github.com/jmathbr)      
+**(C&T/Eng Mecanica):**
+* [Fágner Dantas Silva](https://github.com/fagner147)                           
 
 ## Membros :wink:
 **(C&T/Eng Biomedica):**
