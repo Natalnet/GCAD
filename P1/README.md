@@ -2,8 +2,8 @@
 
 ## Esboço:
 **Circulo**<br>
-**Ranhura Reta**<br>
 **Espelhar entidades** <br>
+**Ranhura Reta**<br>
 **Retangulo central**<br>
 **Retangulo de canto**<br>
 
