@@ -12,18 +12,23 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * [Fágner Dantas Silva](https://github.com/fagner147)                           (C&T/Eng Mecanica)
 
 ## Membros :wink:
-* Henry Coutinho Lamas                    (C&T/Eng Biomedica)
-* Isabelly Christine Alvez Dionizio       (C&T/Eng Biomedica)
-* Maria Luiza Pires de Souza              (C&T/Eng Biomedica)
+**(C&T/Eng Biomedica):**
+* Henry Coutinho Lamas                    
+* Isabelly Christine Alvez Dionizio       
+* Maria Luiza Pires de Souza   
 
+**(C&T/Eng Computaçao):**
+* Adson Emanuel Santos Amaral             
+* Luis Felipe Vanin Martins  
 
-* Igor Micael Araujo de Macedo            (C&T/Eng Mecatronica)
-* Gabriel Barros Lins Lelis de OLiveira   (C&T/Eng Mecatronica)
+**(C&T/Eng Mecatronica):**
+* Igor Micael Araujo de Macedo            
+* Gabriel Barros Lins Lelis de OLiveira   
 
-* Matheus Antonio Pereira Da Silva        (C&T/Eng Mecanica)
+**(C&T/Eng Mecanica):**
+* Matheus Antonio Pereira Da Silva        
 
-* Adson Emanuel Santos Amaral             (C&T/Eng Computaçao)
-* Luis Felipe Vanin Martins               (C&T/Eng Computaçao)
+            
 ## Candidatos :runner:
 * Como faço para ser um candidato?<br>
 Para participar do grupo voce deve inicialmente procurar um Padrinho (Membro), esse Padrinho é quem vai te guiar para atividades relacionadas ao grupo e te instruir dentro do GCAD.
