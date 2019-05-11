@@ -6,9 +6,13 @@ O Objetivo é formação de recursos humanos nas áreas de:
 ## Professores Orientadores
 * Orivaldo Santana
 
-## Pesquisadores
+## Líderes 
 
 * João Matheus 
+
+## Membros 
+
+* ... 
 
 ## Módulos 
 
