@@ -4,12 +4,12 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Desenvolvimento de projetos com CAD;
 
 ## Professores Orientadores
-* Orivaldo Santana
+* [Orivaldo Santana](https://github.com/orivaldosantana)
 * Fábio Souza
 
 ## Líderes 
-* João Matheus Bernardo Resende           (C&T/Eng Mecatronica)
-* Fagner Dantas                           (C&T/Eng Mecanica)
+* [João Matheus Bernardo Resende](https://github.com/jmathbr)           (C&T/Eng Mecatronica)
+* [Fagner Dantas](https://github.com/fagner147)                           (C&T/Eng Mecanica)
 
 ## Membros 
 * Henry Coutinho Lamas                    (C&T/Eng Biomedica)
