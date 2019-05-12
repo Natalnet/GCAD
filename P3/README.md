@@ -1,15 +1,17 @@
-# P2
+# P3
 ![](https://github.com/Natalnet/GCAD/blob/master/P3/P3.JPG)
 ## Esboço:
-* Converter entidade<br>
-* Polígono <br>
-* Retangulo Central<br>
+* Converter entidade
+* Polígono 
+* Retangulo Central
 * Criar ponto (fixado)
+
 ## Recursos:
+* Corte cego
+* Corte por varredura
 * Criar plano
-* Corte cego <br>
 * Espiral
 * Ressalto de base revolucionario <br>
-* Corte por varredura
+
 
 ## Video:
