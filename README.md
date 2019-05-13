@@ -36,11 +36,11 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * Como faço para ser um candidato?<br>
 Para participar do grupo voce deve inicialmente procurar um Padrinho (Membro), esse Padrinho é quem vai te guiar para atividades relacionadas ao grupo e te instruir dentro do GCAD.
 ## Módulos :nut_and_bolt:
-| Peças | Dificuldade | Visualizaçao |
-| ------ | ------ | ------ |
-| [P1 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/P1) | Easy :smiley: | Easy :smiley:|
-| [P2 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/P2) | Easy :smiley:| Easy :smiley: |
-| [P3 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/P3) | Easy :smiley:| Medium :expressionless: |
+| Peças | Dificuldade - Esboço | Dificuldade - Recursos | Visualizaçao |
+| ------ | ------ | ------ |------ |
+| [P1 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/P1) | Easy :smiley: | Easy :smiley:|Easy :smiley:|
+| [P2 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/P2) | Medium :expressionless:| Easy :smiley: |Easy :smiley:|
+| [P3 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/P3) | Easy :smiley:| Medium :expressionless: |Medium :expressionless: |
 <br>
 
 Informações gerais: https://github.com/Natalnet/ModulosDeEstudo/tree/master/CAD 
