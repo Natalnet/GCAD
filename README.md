@@ -42,5 +42,7 @@ Para participar do grupo voce deve inicialmente procurar um Padrinho (Membro), e
 | [P2 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/P2) | Easy :smiley:| Medium :expressionless: |
 <br>
 
+Informações gerais: https://github.com/Natalnet/ModulosDeEstudo/tree/master/CAD 
+
 
 
