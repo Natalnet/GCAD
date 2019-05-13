@@ -15,3 +15,4 @@
 
 
 ## Video:
+* *Recurso Espiral:* https://www.youtube.com/watch?v=W26Fp4MDKX8
