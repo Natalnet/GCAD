@@ -1,18 +1,19 @@
-# P3
-![](https://github.com/Natalnet/GCAD/blob/master/P3/P3.JPG)
+# P4
+![]()
 ## Esboço:
-* Converter entidade
-* Polígono 
-* Retangulo Central
-* Criar ponto (fixado)
+* Offset de entidades
+* Padrao Linear
+* Ranhura Reta
+* Spline
 
 ## Recursos:
-* Corte cego
-* Corte por varredura
-* Criar plano
-* Espiral
-* Ressalto de base revolucionario <br>
+* Ressalto por Loft
+* Casca
+* Filete
+## Vista:
+* Seção
 
 
 ## Video:
-* *Recurso Espiral:* https://www.youtube.com/watch?v=W26Fp4MDKX8
+* *Ressalto por Loft:* https://www.youtube.com/watch?v=FCsBo98mFm8 (Só até 03:46)
+* *Casca:* https://www.youtube.com/watch?v=mlcc3nSULSk
