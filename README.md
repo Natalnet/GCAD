@@ -27,7 +27,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 * [Luis Felipe Vanin Martins](http://github.com/luigivanin)
 
 **(C&T/Eng Mecatronica):**
-* Igor Micael Araujo de Macedo            
+* [Igor Micael Araujo de Macedo](https://github.com/igoormichaeel)            
 * [Gabriel Barros Lins Lelis de OLiveira](https://github.com/gabrielblins)   
 
 **(C&T/Eng Mecanica):**
