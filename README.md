@@ -35,7 +35,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 ## Candidatos :runner:
 * Como faço para ser um candidato?<br>
 Para participar do grupo voce deve inicialmente procurar um Padrinho (Membro), esse Padrinho é quem vai te guiar para atividades relacionadas ao grupo e te instruir dentro do GCAD.
-## Módulos :nut_and_bolt:
+## Módulos de Atividade :nut_and_bolt:
 | Peças | Dificuldade - Esboço | Dificuldade - Recursos | Visualizaçao |
 | ------ | ------ | ------ |------ |
 | [P1 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/P1) | Easy :smiley: | Easy :smiley:|Easy :smiley:|
