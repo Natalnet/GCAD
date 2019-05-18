@@ -17,25 +17,36 @@ O Objetivo é formação de recursos humanos nas áreas de:
 
 ## Membros :wink:
 **(C&T/Eng Biomedica):**
+* [Abraão Lucas Pereira de Andrade](github.com/gabrielblins)
 * Henry Coutinho Lamas                    
 * Isabelly Christine Alvez Dionizio       
-* Maria Luiza Pires de Souza   
+* [Maria Luiza Pires de Souza](https://github.com/marialupiress)
 
 **(C&T/Eng Computaçao):**
 * Adson Emanuel Santos Amaral             
-* Luis Felipe Vanin Martins  
+* [Luis Felipe Vanin Martins](http://github.com/luigivanin)
 
 **(C&T/Eng Mecatronica):**
 * Igor Micael Araujo de Macedo            
-* Gabriel Barros Lins Lelis de OLiveira   
+* [Gabriel Barros Lins Lelis de OLiveira](https://github.com/gabrielblins)   
 
 **(C&T/Eng Mecanica):**
 * Matheus Antonio Pereira Da Silva        
 
             
 ## Candidatos :runner:
+
 * Como faço para ser um candidato?<br>
 Para participar do grupo voce deve inicialmente procurar um Padrinho (Membro), esse Padrinho é quem vai te guiar para atividades relacionadas ao grupo e te instruir dentro do GCAD.
+
+* O que eu ganho participando do grupo?<br>
+Ganha experiencia e talvez horas.
+
+* Como são as atividades?<br>
+Inicialmente os lideres fazem peças aos quais os membros devem replicar com os recursos pedidos.<br>
+Com os <recursos Bases> aprendidos, os lideres vao passar desfios para os alunos desenvolverem.
+
+
 ## Módulos de Atividade :nut_and_bolt:
 | Peças | Dificuldade - Esboço | Dificuldade - Recursos | Visualizaçao |
 | ------ | :------: | :------: | :------: |
