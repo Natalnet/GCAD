@@ -10,6 +10,7 @@ O Objetivo é formação de recursos humanos nas áreas de:
 ## Líderes :relieved:
 **(C&T/Eng Mecatronica):**
 * [João Matheus Bernardo Resende](https://github.com/jmathbr) 
+* [Gabriel Teixeira Vantuil](https://github.com/gabrielvantuil) 
 
 **(C&T/Eng Mecanica):**
 * [Fágner Dantas Silva](https://github.com/fagner147)                           
