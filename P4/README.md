@@ -1,5 +1,5 @@
 # P4
-![]()
+![](https://github.com/Natalnet/GCAD/blob/master/P4/caneca.PNG)
 ## Esboço:
 * Offset de entidades
 * Padrao Linear
