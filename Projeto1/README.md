@@ -12,4 +12,4 @@ Máquina cujo funcionamento faz uso da aceleração centrífuga obtida através 
 [Exemplo 2](https://www.youtube.com/watch?v=Sobl33Jwd0o)<br>
 [Exemplo 3](https://www.youtube.com/watch?v=4M0QtLWepSk)
 
-## Prazo de Entrega: 1 Semana (27/05/19)
+## Prazo de Entrega: 1 Semana
