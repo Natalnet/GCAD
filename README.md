@@ -50,10 +50,10 @@ Com os <recursos Bases> aprendidos, os lideres vao passar desfios para os alunos
 ## Módulos de Atividade :nut_and_bolt:
 | Peças | Dificuldade - Esboço | Dificuldade - Recursos | Visualizaçao |
 | ------ | :------: | :------: | :------: |
-| [P1 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/P1) | Easy :smiley: | Easy :smiley:|Easy :smiley:|
-| [P2 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/P2) | Medium :expressionless:| Easy :smiley: |Easy :smiley:|
-| [P3 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/P3) | Easy :smiley:| Medium :expressionless: |Easy :smiley: |
-| [P4 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/P4) | difficult :rage:| difficult :rage: |Easy :smiley: |
+| [P1 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/Peça1) | Easy :smiley: | Easy :smiley:|Easy :smiley:|
+| [P2 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/Peça2) | Medium :expressionless:| Easy :smiley: |Easy :smiley:|
+| [P3 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/Peça3) | Easy :smiley:| Medium :expressionless: |Easy :smiley: |
+| [P4 - Recursos Base](https://github.com/Natalnet/GCAD/tree/master/Peça4) | difficult :rage:| difficult :rage: |Easy :smiley: |
 <br>
 
 Informações gerais: https://github.com/Natalnet/ModulosDeEstudo/tree/master/CAD 
